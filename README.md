@@ -1,6 +1,8 @@
 Gitea - Git service with a cup of tea. [![Build Status](https://travis-ci.org/go-gitea/gitea.svg?branch=master)](https://travis-ci.org/go-gitea/gitea)
 =====================
 
+** THIS PROJECT WILL NOT BE UPDATED, PLEASE VISIT (https://github.com/gogits/gogs) FOR INSTEAD **
+
 [![Join the chat at https://gitter.im/go-gitea/gitea](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/go-gitea/gitea?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Gitea (Git service with a cup of tea) is a self-hosted Git service.
